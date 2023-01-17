@@ -25,6 +25,6 @@ I DON'T LIKE TO SAY TOO MANY SUPERFLUOUS WORDS! I DO MY JOB AND MOVE FORWARD!
   ## Github Status
 
 <p align="left" style="margin: 0; padding:0">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaetaen&hide=html&layout=compact&theme=codeSTACKr" />
+  
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=kaetaen&theme=codeSTACKr&show_icons=true" />
 </p>
